@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **FastAPI Application**
 - 🌱 I’m currently learning **Data Engineering**
 - 💬 Ask me about **Python | FastAPI | Django | Wordpress | SEO**
-- 📫 Reach me at **sikandarmustafa287@gmail.com**
+- 📫 Reach me at **rajpootatwork@gmail.com**
 - ⚡ Fun fact: **I'm proudly Pakistani**
 
 ---
