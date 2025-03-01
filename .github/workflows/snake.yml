@@ -6,19 +6,25 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Explicitly grant write access
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Use the default token
       - uses: Platane/snk@v3
         with:
-          github_user_name: sikandar-rajpoot
+          github_user_name: Sikandar-rajpoot
           outputs: |
             dist/github-contribution-grid-snake.svg
       - uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist/github-contribution-grid-snake.svg
-      - run: git config --global user.name "github-actions"
-      - run: git config --global user.email "github-actions@github.com"
-      - run: git add .
-      - run: git commit -m "Update snake animation" || exit 0
-      - run: git push
+      - name: Commit and Push Snake SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
