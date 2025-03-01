@@ -1,8 +1,8 @@
 name: Generate Snake
 on:
   schedule:
-    - cron: "0 0 * * *"
-  push:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  push: # Runs on every push to the repo
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,7 +13,7 @@ jobs:
           github_user_name: sikandar-rajpoot
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist/github-contribution-grid-snake.svg
