@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Sikandar%20Rajpoot&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400§ion=header&text=Sikandar%20Rajpoot&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
 </p>
 
 <h3 align="center" style="color: #00cc99; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);">Python Wizard | Code Ninja</h3>
