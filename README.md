@@ -28,7 +28,7 @@
     📬 <strong style="color: #1e90ff;">Hit Me Up:</strong> <a href="mailto:rajpootatwork@gmail.com" style="color: #87cefa; text-decoration: none; border-bottom: 2px dotted #87cefa; transition: color 0.3s;">rajpootatwork@gmail.com</a>
   </p>
   <p style="color: #ffffff; font-size: 18px; line-height: 1.6;">
-    🎉 <strong style="color: #ffd700;">Fun Fact:</strong> I code with <span style="color: #ffa500; font-weight: bold;">chai</span> in one hand and <span style="color: #32cd32; font-weight: bold;">Pakistani passion</span> in my heart! ☕🇵🇰
+    🎉 <strong style="color: #ffd700;">Fun Fact:</strong> I code with <span style="color: #ffa500; font-weight: bold;">chai</span> in one hand and <span style="color: #32cd32; font-weight: bold;">and my passion</span> in my heart! ☕🇵🇰
   </p>
 </div>
 
@@ -36,41 +36,47 @@
 
 <h3 align="center" style="color: #00ff99; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);">🛠️ Tech I Wield</h3>
 <p align="center" style="padding: 25px;">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=android" alt="Android" width="60" height="60" style="margin: 15px;" />
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="60" height="60" style="margin: 15px;" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="60" height="60" style="margin: 15px;" />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60" height="60" style="margin: 15px;" />
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="60" height="60" style="margin: 15px;" />
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="60" height="60" style="margin: 15px;" />
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60" height="60" style="margin: 15px;" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60" style="margin: 15px;" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="60" height="60" style="margin: 15px;" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60" style="margin: 15px;" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60" style="margin: 15px;" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="60" height="60" style="margin: 15px;" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="60" height="60" style="margin: 15px;" />
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="60" height="60" style="margin: 15px;" />
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="60" height="60" style="margin: 15px;" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="60" height="60" style="margin: 15px;" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="60" height="60" style="margin: 15px;" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" style="margin: 15px;" />
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="60" height="60" style="margin: 15px;" />
+  </a>
+  <a href="https://zapier.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.zapier.com/zapier/images/logos/zapier-logomark.png" alt="Zapier" width="60" height="60" style="margin: 15px;" />
   </a>
 </p>
 
@@ -123,7 +129,7 @@
   
   <!-- ASCII Art Game -->
   <pre style="color: #ff3399; font-size: 16px; line-height: 1.2; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6);">
-  ####%%%%####%%%%%####%%%%####%%%%#####%%%%####%%%%####%%%%#####%%%%####%%%%####%%%%####%%%%%####%%%%
+####%%%%####%%%%%####%%%%####%%%%#####%%%%####%%%%####%%%%#####%%%%####%%%%####%%%%####%%%%%####%%%%
 ####%%%%####%%%%%####%%%%####%%%%#####%%%%####%%%%####%%%%#####%%%%####%%%%####%%%%####%%%%%####%%%%
 %%%%####%%%%#####%%%%####%%%%####%%%%%####%%%%####%%%%####%%%%%####%%%%####%%%%####%%%%#####%%%%####
 %%%%####%%%%#####%%%%####%%%%####%%%%%####%%%%####%%%%####%%%%%####%%%%####%%%%####%%%%#####%%%%####
