@@ -66,9 +66,6 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="60" height="60" style="margin: 15px;" />
   </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="60" height="60" style="margin: 15px;" />
-  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" style="margin: 15px;" />
   </a>
