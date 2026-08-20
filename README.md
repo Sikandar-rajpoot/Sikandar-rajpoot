@@ -29,7 +29,7 @@
           <strong>Expertise:</strong> Python | FastAPI | Django | Celery | Redis | PostgreSQL | Docker | LangChain
         </p>
         <p>
-          <strong>Portfolio:</strong> <a href="https://skandar.pro">skandar.pro</a>
+          <strong>Portfolio:</strong> <a href="https://sikandar.pro">sikandar.pro</a>
         </p>
         <p>
           <strong>Contact:</strong> <a href="mailto:rajpootatwork@gmail.com">rajpootatwork@gmail.com</a>
@@ -90,8 +90,8 @@
   <a href="https://linkedin.com/in/sikandar-rajpoot" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://skandar.pro" target="_blank">
-    <img src="https://img.shields.io/badge/Website-skandar.pro-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://sikandar.pro" target="_blank">
+    <img src="https://img.shields.io/badge/Website-sikandar.pro-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/sikandar-rajpoot" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
