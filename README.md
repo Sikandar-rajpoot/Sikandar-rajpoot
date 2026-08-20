@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Sikandar%20Rajpoot&fontSize=42&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9E20&height=180&section=header&text=Sikandar%20Rajpoot&fontSize=42&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
 </p>
 
 <h3 align="center">Software Engineer | FastAPI & Django Backend Specialist | Microservices & AI Systems</h3>
