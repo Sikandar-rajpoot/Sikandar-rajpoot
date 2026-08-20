@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9E20&height=200&section=header&text=Sikandar%20Rajpoot&fontSize=65&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Sikandar%20Rajpoot&fontSize=55&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
 </p>
 
 <h3 align="center">Software Engineer | FastAPI & Django Backend Specialist | Microservices & AI Systems</h3>
@@ -29,14 +29,14 @@
           <strong>Expertise:</strong> Python | FastAPI | Django | Celery | Redis | PostgreSQL | Docker | LangChain
         </p>
         <p>
-          <strong>Portfolio:</strong> <a href="https://sikandar.pro">sikandar.pro</a>
+          <strong>Portfolio:</strong> <a href="https://skandar.pro">skandar.pro</a>
         </p>
         <p>
           <strong>Contact:</strong> <a href="mailto:rajpootatwork@gmail.com">rajpootatwork@gmail.com</a>
         </p>
       </td>
       <td align="center" valign="middle" width="45%">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Coding GIF" />
+        <img src="https://raw.githubusercontent.com/sikandar-rajpoot/sikandar-rajpoot/main/assets/coding_portfolio_theme.gif" width="380" alt="Coding Animation" />
       </td>
     </tr>
   </table>
@@ -90,8 +90,8 @@
   <a href="https://linkedin.com/in/sikandar-rajpoot" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://sikandar.pro" target="_blank">
-    <img src="https://img.shields.io/badge/Website-sikandar.pro-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://skandar.pro" target="_blank">
+    <img src="https://img.shields.io/badge/Website-skandar.pro-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/sikandar-rajpoot" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -174,5 +174,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Engineering%20Scalable%20Systems%20&%20Intelligent%20Workflows&fontSize=50&animation=twinkling&fontColor=ffffff" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Engineering%20Scalable%20Systems%20&%20Intelligent%20Workflows&fontSize=26&animation=twinkling&fontColor=ffffff" alt="Footer Banner" />
 </p>
