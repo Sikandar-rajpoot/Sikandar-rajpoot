@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Sikandar%20Rajpoot&fontSize=55&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Sikandar%20Rajpoot&fontSize=42&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
 </p>
 
 <h3 align="center">Software Engineer | FastAPI & Django Backend Specialist | Microservices & AI Systems</h3>
@@ -20,16 +20,16 @@
     <tr>
       <td align="left" valign="middle" width="55%">
         <p>
-          <strong>Building:</strong> High-concurrency microservices, multi-tenant real estate platforms, and LLM-powered autonomous agents.
+          <strong>Role:</strong> Python Backend Engineer specializing in high-concurrency microservices and distributed systems.
         </p>
         <p>
-          <strong>Exploring:</strong> Distributed systems architecture, event-driven streams, LangGraph multi-agent systems, and async performance optimization.
+          <strong>Current Focus:</strong> Architecting multi-tenant real estate platforms and autonomous LLM agent pipelines at ThinkRealty.
         </p>
         <p>
-          <strong>Expertise:</strong> Python | FastAPI | Django | Celery | Redis | PostgreSQL | Docker | LangChain
+          <strong>Specialties:</strong> FastAPI | Django REST | Celery | Redis | PostgreSQL | PostGIS | Docker | LangChain | System Architecture
         </p>
         <p>
-          <strong>Portfolio:</strong> <a href="https://skandar.pro">skandar.pro</a>
+          <strong>Portfolio:</strong> <a href="https://sikandar.pro/">sikandar.pro</a>
         </p>
         <p>
           <strong>Contact:</strong> <a href="mailto:rajpootatwork@gmail.com">rajpootatwork@gmail.com</a>
@@ -61,8 +61,8 @@
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" /></a>
   <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50" /></a>
   <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="50" height="50" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" /></a>
+  <a href="https://mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" /></a>
+  <a href="https://mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" /></a>
 </p>
 
 <h4 align="center">Cloud, DevOps & Message Queues</h4>
@@ -74,7 +74,7 @@
   <a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="50" height="50" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" /></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" /></a>
+  <a href="https://linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" /></a>
 </p>
 
 <h4 align="center">AI Tooling & Testing</h4>
@@ -90,8 +90,8 @@
   <a href="https://linkedin.com/in/sikandar-rajpoot" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://skandar.pro" target="_blank">
-    <img src="https://img.shields.io/badge/Website-skandar.pro-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://sikandar.pro/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-sikandar.pro-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/sikandar-rajpoot" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -111,27 +111,15 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sikandar-rajpoot&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffcc00&text_color=ffffff&icon_color=ff4500">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sikandar-rajpoot&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true&bg_color=f6f8fa&title_color=ff8c00&text_color=2d3748&icon_color=ff4500">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sikandar-rajpoot&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffcc00&text_color=ffffff&icon_color=ff4500" alt="Language Stats" />
-      </picture>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikandar-rajpoot&layout=compact&theme=radical&hide_border=true&title_color=ffcc00&text_color=ffffff&icon_color=ff4500" alt="Language Stats" />
     </td>
     <td align="center" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sikandar-rajpoot&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00cc99&text_color=ffffff&icon_color=ff4500&include_all_commits=true&count_private=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sikandar-rajpoot&show_icons=true&theme=default&hide_border=true&bg_color=f6f8fa&title_color=00cc99&text_color=2d3748&icon_color=ff4500&include_all_commits=true&count_private=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=sikandar-rajpoot&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00cc99&text_color=ffffff&icon_color=ff4500&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </picture>
+      <img src="https://github-readme-stats.vercel.app/api?username=sikandar-rajpoot&show_icons=true&theme=radical&hide_border=true&title_color=00cc99&text_color=ffffff&icon_color=ff4500&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sikandar-rajpoot&theme=radical&hide_border=true&background=0d1117&ring=ffcc00&fire=ff4500&currStreakLabel=00cc99&sideNums=ffffff&currStreakNum=ffcc00&dates=ffffff&sideLabels=ff69b4">
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sikandar-rajpoot&theme=default&hide_border=true&background=f6f8fa&ring=ff8c00&fire=ff4500&currStreakLabel=00cc99&sideNums=2d3748&currStreakNum=ff8c00&dates=2d3748&sideLabels=ff69b4">
-        <img src="https://streak-stats.demolab.com/?user=sikandar-rajpoot&theme=radical&hide_border=true&background=0d1117&ring=ffcc00&fire=ff4500&currStreakLabel=00cc99&sideNums=ffffff&currStreakNum=ffcc00&dates=ffffff&sideLabels=ff69b4" alt="Streak Stats" />
-      </picture>
+      <img src="https://streak-stats.demolab.com/?user=sikandar-rajpoot&theme=radical&hide_border=true&background=0d1117&ring=ffcc00&fire=ff4500&currStreakLabel=00cc99&sideNums=ffffff&currStreakNum=ffcc00&dates=ffffff&sideLabels=ff69b4" alt="Streak Stats" />
     </td>
   </tr>
 </table>
@@ -151,12 +139,12 @@
   </p>
 
   <pre>
-    ██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
-    ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
-    ██████╔╝ ╚████╔╝    ██║   ███████║██║   ██║██╔██╗ ██║
-    ██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║   ██║██║╚██╗██║
-    ██║        ██║      ██║   ██║  ██║╚██████╔╝██║ ╚████║
-    ╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+ ██████╗  ██████╗ ██████╗ ██╗███╗   ██╗ ██████╗ 
+██╔════╝ ██╔═══██╗██╔══██╗██║████╗  ██║██╔════╝ 
+██║      ██║   ██║██║  ██║██║██╔██╗ ██║██║  ███╗
+██║      ██║   ██║██║  ██║██║██║╚██╗██║██║   ██║
+╚██████╗ ╚██████╔╝██████╔╝██║██║ ╚████║╚██████╔╝
+ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
   </pre>
 
   <p>
@@ -174,5 +162,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Engineering%20Scalable%20Systems%20&%20Intelligent%20Workflows&fontSize=26&animation=twinkling&fontColor=ffffff" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20building.%20Keep%20learning.%20Keep%20growing&fontSize=26&fontAlignY=55&fontColor=ffffff" alt="Footer Banner" />
 </p>
